@@ -1,0 +1,22 @@
+# Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+
+# Jupyter noise
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+# Ignore large/unnecessary files
+data/
+results/
+models/
+
+
+
+
+
+
